@@ -1,5 +1,6 @@
 echo " Welcome to jenkins world"
 hostname
 pwd
-this is kumar suragam
-sleep 20
+echo "this is kumar suragam"
+sleep 20s
+echo "hi to all"
